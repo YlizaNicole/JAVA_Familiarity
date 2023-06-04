@@ -1,0 +1,13 @@
+This is lab activity requirement for Software Design/Engineering course. 
+
+This Java program finds the maximum value in an array of integers.
+
+This program takes an array of integers as input and iterates through the elements to find the maximum value. It uses a loop to compare each element with the current maximum value, updating the maximum value if a larger element is found. Finally, it outputs the maximum value to the console.
+
+
+in accordance to the lesson where you will be the compiller the logic formalation is:
+
+1. First element in the array will be assign to a variable named "max".
+2. Iterate over the next elements in the array by comparing the elements and if an element is greater than "max"(the previous),it will update the value of "max" to element.
+3. Print the maximum value
+

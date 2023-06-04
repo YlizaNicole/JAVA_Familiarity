@@ -1,0 +1,10 @@
+This is lab activity requirement for Software Design/Engineering course. 
+
+This Java program creates a a pyramid of *.
+
+**the logic formalation:**
+1. Set the number of rows to "n" for pattern.
+2. use for Loop to loop from 1 to "n"
+3. To make the pyramind the statement (n-i) is created.
+4. Print * after that add space
+

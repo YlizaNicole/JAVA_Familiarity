@@ -1,0 +1,14 @@
+This is lab activity requirement for Software Design/Engineering course. 
+
+This Java program creates a Fibonacci Series.
+
+in accordance to the lesson where you will be the compiller the logic formalation is:
+
+1. Set the variable "n" to 10 to be printed.
+2. Set the variables "t1" to 0 and "t2" to 1, to represent the first two terms of the series.
+3. Iterate from 1 to 10:
+4.  The output the value of "t1" represents the current term.
+5. Then calculate the next term by adding "t1" and "t2", and assign it to a temporary variable "sum".
+6.  Update the values of "t1" and "t2" by assigning "t2" to "t1" and "sum" to "t2".
+7. print out the string First + n + terms; (the created series)
+

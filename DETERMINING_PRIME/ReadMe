@@ -1,0 +1,11 @@
+This is lab activity requirement for Software Design/Engineering course. 
+
+This Java program  checks whether a given number is prime or not.
+
+in accordance to the lesson where you will be the compiller the logic formalation is:
+
+1. Assign 29 to the variable named "num".
+2. Set a boolean variable "isPrime" to true.
+3. If "num" is less than or equal to 1, set "isPrime" to false. (creating a Control statements)
+4. Iterate from 2 to the square root of "num" and if "num" is divisible by the current iteration,  the set to "isPrime" to false then it will break the loop.
+5. Print the result 
